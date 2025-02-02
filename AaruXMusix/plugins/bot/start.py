@@ -26,18 +26,16 @@ from strings import get_string
 
 
 Hina_PICS = [
-"https://telegra.ph/file/2e85d11aefdf6cd01301b.jpg",
-"https://telegra.ph/file/0a08b180583f13952336a.jpg",
-"https://telegra.ph/file/ace92d59d19127d2d4e89.jpg",
-"https://telegra.ph/file/bb0a28259990c6a978985.jpg",
-"https://telegra.ph/file/ace92d59d19127d2d4e89.jpg",
-"https://telegra.ph/file/a0db46dfacd94e489117b.jpg",
-"https://telegra.ph/file/cd77be2595cdc2fca60a3.jpg",
-"https://telegra.ph/file/632724b3d30c691247c77.jpg",
-"https://telegra.ph/file/a2d01afe4f2cb1d4b650c.jpg",
-"https://telegra.ph/file/94dc035df11dfb159b999.jpg",
-"https://telegra.ph/file/fed9a5b1cbaaefc3a818c.jpg",
-"https://telegra.ph/file/66fd03632cbb38bdb4193.jpg"
+"https://telegra.ph/file/6ae3a399b96f70b6fda79.mp4",
+"https://telegra.ph/file/5df37a776933bb427b528.mp4",
+"https://telegra.ph/file/85a35e5a79525b70f5904.mp4",
+"https://telegra.ph/file/75764b093a76d08f51d2c.mp4",
+"https://telegra.ph/file/ea951700bb21f53df70c9.mp4",
+"https://telegra.ph/file/b74553a355a110d9a016b.mp4",
+"https://telegra.ph/file/959dc8b67413e50f1c4a5.mp4",
+"https://graph.org/file/2a7f857f31b32766ac6fc.mp4",
+"https://graph.org/file/83ebf52e8bbf138620de7.mp4",
+"https://graph.org/file/ba7699c28dab379b518ca.mp4",
 
 ]
 
