@@ -9,13 +9,13 @@ app.on_message(filters.command("owner") & filters.group)
 
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://files.catbox.moe/ars2tf.jpg",
+        photo=f"https://graph.org/file/8f3b69f3991bfb6a3eff0-9c6b31e7aa48206b18.jpg",
         caption=f"""🥀 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 𝐅𝐨𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐎𝐰𝐧𝐞𝐫 🥀""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/II_RAJPUT_SHIV_OP_II"
+                        "Jᴀʏ sʜʀᴇᴇ ʀᴀᴍ  🚩", url=f"https://t.me/Shivang_mishra_op"
                     )],
             ]
         ),
@@ -25,13 +25,13 @@ async def help(client: Client, message: Message):
 @app.on_message(filters.command("owner") & filters.group)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://files.catbox.moe/ars2tf.jpg",
+        photo=f"https://graph.org/file/8f3b69f3991bfb6a3eff0-9c6b31e7aa48206b18.jpg",
         caption=f"""🥀 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 𝐅𝐨𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐎𝐰𝐧𝐞𝐫 🥀""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/II_RAJPUT_SHIV_OP_II"
+                        "Jᴀʏ sʜʀᴇᴇ ʀᴀᴍ  🚩", url=f"https://t.me/Shivang_mishra_op"
                     )],
             ]
         ),
@@ -41,13 +41,13 @@ async def help(client: Client, message: Message):
 @app.on_message(filters.command("owner") & filters.private)
 async def help(client: Client, message: Message):
     await message.reply_photo(
-        photo=f"https://files.catbox.moe/ars2tf.jpg",
+        photo=f"https://graph.org/file/8f3b69f3991bfb6a3eff0-9c6b31e7aa48206b18.jpg",
         caption=f"""🥀 𝐂𝐥𝐢𝐜𝐤 𝐇𝐞𝐫𝐞 𝐅𝐨𝐫 𝐂𝐨𝐧𝐭𝐚𝐜𝐭 𝐎𝐰𝐧𝐞𝐫 🥀""",
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "🗡️ 𝐎ᴡɴᴇʀ 🗡️", url=f"https://t.me/II_RAJPUT_SHIV_OP_II"
+                        "Jᴀʏ sʜʀᴇᴇ ʀᴀᴍ  🚩", url=f"https://t.me/Shivang_mishra_op"
                     )],
             ]
         ),
