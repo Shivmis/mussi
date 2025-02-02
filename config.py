@@ -12,14 +12,14 @@ API_HASH = getenv("API_HASH")
 # Get your token from @BotFather on Telegram.
 BOT_TOKEN = getenv("BOT_TOKEN")
 # Add Owner Username without @ 
-OWNER_USERNAME = getenv("OWNER_USERNAME","II_RAJPUT_SHIV_OP_II")
+OWNER_USERNAME = getenv("OWNER_USERNAME","Shivang_mishra_op")
 # Get Your bot username
-BOT_USERNAME = getenv("BOT_USERNAME" , "GaanaMusic_bot")
+BOT_USERNAME = getenv("BOT_USERNAME" , "BanarasiQueenBot")
 # Don't Add style font 
-BOT_NAME = getenv("BOT_NAME" , "𝗚𝗮𝗮𝗻𝗮 𝗠𝘂𝘀𝗶𝗰 🎶")
+BOT_NAME = getenv("BOT_NAME" , "𓆰 ×͜𝐁𝐚𝐧𝐚𝐫𝐚𝐬𝐢 𝐐𝐮𝐞𝐞𝐧ꭘ͓̽🝛꯭┼⃖❉͡❟❛❟⟶͇̽ 🎶")
 #get Your Assistant User name
-ASSUSERNAME = getenv("ASSUSERNAME" , "𝗚𝗮𝗮𝗻𝗮 𝗔𝘀𝘀𝗶𝘀𝘁𝗮𝗻𝘁 🎶")
-EVALOP = list(map(int, getenv("EVALOP", "6955568347").split()))
+ASSUSERNAME = getenv("ASSUSERNAME" , "𓆰 ×͜𝐁𝐚𝐧𝐚𝐫𝐚𝐬𝐢 𝐐𝐮𝐞𝐞𝐧ꭘ͓̽🝛꯭┼⃖❉͡❟❛❟⟶͇̽ 🎶")
+EVALOP = list(map(int, getenv("EVALOP", "8056154987").split()))
 # Get your mongo url from cloud.mongodb.com
 MONGO_DB_URI = getenv("MONGO_DB_URI", None)
 
@@ -39,15 +39,15 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
    "UPSTREAM_REPO",
-   "https://github.com/MISH0009/MishuXMusic",
+   "https://github.com/Shivmis/mussi",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
    "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Dns_Official_Channel")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/DNS_NETWORK")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/shivang_xd")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/stickers_Channell")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
