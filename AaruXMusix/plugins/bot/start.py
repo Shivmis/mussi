@@ -25,7 +25,7 @@ from strings import get_string
 
 
 
-Hina_PICS = [
+Hina_VID = [
 "https://telegra.ph/file/6ae3a399b96f70b6fda79.mp4",
 "https://telegra.ph/file/5df37a776933bb427b528.mp4",
 "https://telegra.ph/file/85a35e5a79525b70f5904.mp4",
@@ -50,7 +50,7 @@ async def start_pm(client, message: Message, _):
         if name[0:4] == "help":
             keyboard = help_pannel(_)
             return await message.reply_photo(
-                random.choice(Hina_PICS),
+                random.choice(Hina_VID),
                 caption=_["help_1"].format(config.SUPPORT_CHAT),
                 reply_markup=keyboard,
             )
@@ -102,7 +102,7 @@ async def start_pm(client, message: Message, _):
     else:
         out = private_panel(_)
         await message.reply_photo(
-            random.choice(Hina_PICS),
+            random.choice(Hina_VID),
             caption=_["start_2"].format(message.from_user.mention, app.mention),
             reply_markup=InlineKeyboardMarkup(out),
         )
@@ -119,7 +119,7 @@ async def start_gp(client, message: Message, _):
     out = start_panel(_)
     uptime = int(time.time() - _boot_)
     await message.reply_photo(
-        random.choice(Hina_PICS),
+        random.choice(Hina_VID),
         caption=_["start_1"].format(app.mention, get_readable_time(uptime)),
         reply_markup=InlineKeyboardMarkup(out),
     )
