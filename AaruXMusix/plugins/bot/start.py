@@ -70,7 +70,7 @@ async def start_pm(client, message: Message, _):
                 ]
             )
             await m.delete()
-            await app.send_photo(
+            await app.send_photo()
 
 chat_id=message.chat.id,
                 photo=thumbnail,
