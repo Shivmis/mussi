@@ -26,10 +26,10 @@ from strings import get_string
 
 
 Hina_VID = [
-"https://telegra.ph/file/6ae3a399b96f70b6fda79.mp4",
-"https://telegra.ph/file/5df37a776933bb427b528.mp4",
-"https://telegra.ph/file/85a35e5a79525b70f5904.mp4",
-"https://telegra.ph/file/75764b093a76d08f51d2c.mp4",
+"https://files.catbox.moe/8pywpq.mp4",
+"https://files.catbox.moe/8w2rkr.mp4",
+"https://files.catbox.moe/pjp3sv.mp4",
+"https://files.catbox.moe/x8n96v.mp4",
 "https://telegra.ph/file/ea951700bb21f53df70c9.mp4",
 "https://telegra.ph/file/b74553a355a110d9a016b.mp4",
 "https://telegra.ph/file/959dc8b67413e50f1c4a5.mp4",
